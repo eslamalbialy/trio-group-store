@@ -1,0 +1,6 @@
+{
+  "name": "TRIO GROUP – TGC CORPORATION",
+  "description": "US Corporate Storefront, Product Catalog Management Platform, Customer Order-Request System, and Executive Administrator Portal for TRIO GROUP – TGC CORPORATION.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
